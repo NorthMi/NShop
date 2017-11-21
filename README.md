@@ -1,4 +1,4 @@
-WebPack+VUE+TP5
+VUE+TP5
 TP5
 ===============
  + 基于命名空间和众多PHP新特性
